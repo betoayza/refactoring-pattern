@@ -1,0 +1,13 @@
+Técnicas de Refactoring utilizadas:
+    1-  Method Extract:
+        Guarda una porción de código dentro de un método
+    2- Extract Variable:
+        Guarda un fragmento de código dentro de una variable.
+        Incluye a una función.
+    3- Programación funcional:
+        Permite que el código sea más legible
+        Fomenta la reutilización de código
+    4- "Return Early":
+        Reemplaza a un bloque if-else por un solo if
+        Dentro del mismo if hay un return local y por fuera otro
+        El local se ejecuta si se cumple la condición, caso contrario el externo
